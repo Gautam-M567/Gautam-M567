@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/28306034/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/28380754/README.2.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f6e56&height=200&section=header&text=Hi%20there,%20I'm%20Gautam%20M%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descColor=d0f0e8" width="100%"/>
@@ -49,6 +49,35 @@ developer = {
 
 ---
 
+## 🏆 Certifications
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Offenso%20Hackers%20Academy-Introduction%20to%20Ethical%20Hacking-0a6e56?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking Certificate"/>
+      <br/><br/>
+      <b>🛡️ Introduction to Ethical Hacking</b>
+      <br/>
+      <sub>Offenso Hackers Academy &nbsp;|&nbsp; Issued: July 15, 2024</sub>
+      <br/><br/>
+      <sub>Fundamentals of ethical hacking, security principles and cybersecurity concepts</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Offenso%20Tech%20School-Introduction%20to%20Web%20Development-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development Certificate"/>
+      <br/><br/>
+      <b>🌐 Introduction to Website Development</b>
+      <br/>
+      <sub>Offenso Tech School &nbsp;|&nbsp; Starter Program</sub>
+      <br/><br/>
+      <sub>Web development principles, fundamentals of HTML, CSS and modern web concepts</sub>
+    </td>
+  </tr>
+</table>
+
+> 🎓 Both certifications issued by **Offenso** — Kerala-based tech & cybersecurity training institute
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -57,6 +86,26 @@ developer = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-M567&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Gautam-M567&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" width="49%"/>
+
+</div>
+
+---
+
+## 🏅 Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Gautam-M567&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Gautam-M567)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gautam-M567&theme=tokyo-night&hide_border=true)](https://github.com/Gautam-M567)
 
 </div>
 
