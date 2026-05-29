@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/28380754/README.2.md)
+[TECHSTACK_FIX.md](https://github.com/user-attachments/files/28381228/TECHSTACK_FIX.md)[README (2).md](https://github.com/user-attachments/files/28380754/README.2.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f6e56&height=200&section=header&text=Hi%20there,%20I'm%20Gautam%20M%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descColor=d0f0e8" width="100%"/>
@@ -26,26 +26,20 @@ developer = {
 
 ---
 
-## 🛠️ Tech Stack
+[## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Systems & Security
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E34F26?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E34F26?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Uploading TECHSTACK_FIX.md…]()
 
 ---
 
